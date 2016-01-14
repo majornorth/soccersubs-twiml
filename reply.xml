@@ -1,3 +1,10 @@
-<Response>
-    <Sms to="+15157080626">The king stay the king.</Sms>
-</Response>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head></head>
+    <body>
+        <div id="webkit-xml-viewer-source-xml">
+            <Response>
+                <Sms>The king is still king.</Sms>
+            </Response>
+        </div>
+    </body>
+</html>
